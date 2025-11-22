@@ -157,3 +157,7 @@ On AI Assistance
 
 Parts of the problem breakdown, file structure, and early scaffolding were guided using AI tools.
 All data handling, logic understanding, testing, debugging, and final implementation decisions were made by me.
+
+Overview video link:
+
+https://youtu.be/MVhzS5r3xRg
