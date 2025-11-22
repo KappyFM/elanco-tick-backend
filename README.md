@@ -46,10 +46,13 @@ Deduplicates entries based on a combination of ID + timestamp + coordinates (if 
 All cleaned sightings are stored in memory when the server starts.
 
 Running the Project
-Install dependencies
+
+Install dependencies:
+
 npm install
 
-Start the server
+Start the server:
+
 npm run devStart
 
 Default URL
